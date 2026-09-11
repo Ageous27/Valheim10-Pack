@@ -12,7 +12,6 @@ Download **[Valheim10-Pack.zip](Valheim10-Pack.zip)** (or the latest [Release](h
 4. Select `Valheim10-Pack.r2z`.
 5. Import as a new profile. Leave the name `Valheim10-Pack` unless you have to change it.
 6. Wait until TMM finishes downloading. Do not click Play yet.
-7. Do **not** click Update All. That restores the unpatched Thunderstore DLLs.
 
 ## 2. Copy the patched plugins
 
